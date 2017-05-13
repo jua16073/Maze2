@@ -84,8 +84,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Cosas de Personajes\Controller.cs" />
+    <Compile Include="Assets\Cosas de Personajes\Mov.cs" />
+    <Compile Include="Assets\Cosas de Personajes\OnCreate.cs" />
     <Compile Include="Assets\Particle Ribbon\Scripts\ReverseNormals.cs" />
-    <Compile Include="Assets\Scripts Personajes\Mov.cs" />
     <Compile Include="Assets\Scripts\GameManager.cs" />
     <Compile Include="Assets\Scripts\IntVector2.cs" />
     <Compile Include="Assets\Scripts\Maze.cs" />
